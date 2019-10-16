@@ -1,0 +1,23 @@
+{
+  "name": "tpoutillage",
+  "version": "1.0.0",
+  "description": "tp Outillage",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+	  "http": "node http-server.js",
+	  "numbers": "node app.js"
+	  
+  },
+	
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NesrineBacouch/diginamic-js-outillage-tp1-.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NesrineBacouch/diginamic-js-outillage-tp1-/issues"
+  },
+  "homepage": "https://github.com/NesrineBacouch/diginamic-js-outillage-tp1-#readme"
+}
